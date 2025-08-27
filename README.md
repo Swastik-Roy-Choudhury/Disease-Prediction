@@ -59,6 +59,8 @@ The **Disease Prediction Toolkit** is a machine learning project that predicts t
  ### [LinkedIn](https://www.linkedin.com/in/swastikroychoudhury)
  
  ### [Documentation](https://drive.google.com/file/d/1rlDLGVmlT8ooQn13AdypRIhZ_8vcl6_f/view?usp=sharing)
+
+ ### [5-SLIDE PRESENTATION](https://docs.google.com/presentation/d/151qrB7pmj45y1CI3A2oLcC_Eis2GJW5C/edit?usp=sharing&ouid=113223291190244198418&rtpof=true&sd=true)
  
  ### Bootcamp: *Save Lives with AI*
 
