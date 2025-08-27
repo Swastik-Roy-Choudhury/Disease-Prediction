@@ -54,11 +54,11 @@ The **Disease Prediction Toolkit** is a machine learning project that predicts t
 - Deploy the toolkit as a **web application** for real-world use.  
 
 ---
- Developed by: *SWASTIK ROY CHOUDHURY* [ABOUT AUTHOR](https://bio.link/swastikroychoudhury)
+ ### Developed by: *SWASTIK ROY CHOUDHURY* [ABOUT AUTHOR](https://bio.link/swastikroychoudhury)
  
- [LinkedIn](https://www.linkedin.com/in/swastikroychoudhury)
+ ### [LinkedIn](https://www.linkedin.com/in/swastikroychoudhury)
  
- [Documentation](https://drive.google.com/file/d/1rlDLGVmlT8ooQn13AdypRIhZ_8vcl6_f/view?usp=sharing)
+ ### [Documentation](https://drive.google.com/file/d/1rlDLGVmlT8ooQn13AdypRIhZ_8vcl6_f/view?usp=sharing)
  
- Bootcamp: *Save Lives with AI*
+ ### Bootcamp: *Save Lives with AI*
 
